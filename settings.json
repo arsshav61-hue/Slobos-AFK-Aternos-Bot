@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": mikasa228.aternos.me,
+    "ip": "mikasa228.aternos.me",
     "port": 50261,
     "version": "",
     "try-creative": false
